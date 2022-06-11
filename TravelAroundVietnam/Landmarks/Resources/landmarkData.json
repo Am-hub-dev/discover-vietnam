@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Hoi An Town",
+        "category": "City",
+        "city": "Quang Nam Province",
+        "state": "Tam Ky City",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Viet Nam",
+        "coordinates": {
+            "longitude": 15.883333,
+            "latitude": 108.333333
+        },
+        "description": "Hoi An, formerly known as Fai-Fo or Faifoo, is a city with a population of approximately 120,000 in Vietnam's Quảng Nam Province and noted since 1999 as a UNESCO World Heritage Site. Old Town Hoi An, the city's historic district, is recognized as an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century, its buildings and street plan reflecting a unique blend of influences, indigenous and foreign.",
+        "imageName": "hoian",
+        "link": "https://en.wikipedia.org/wiki/H%E1%BB%99i_An"
+    },
+    {
+        "name": "Ha Long Bay",
+        "category": "Nature Landmark",
+        "city": "Quang Ninh Province",
+        "state": "Ha Long City",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Viet Nam",
+        "coordinates": {
+            "longitude": 20.9,
+            "latitude": 107.2
+        },
+        "description": "Ha Long Bay, in the Gulf of Tonkin, includes some 1,600 islands and islets, forming a spectacular seascape of limestone pillars. Because of their precipitous nature, most of the islands are uninhabited and unaffected by a human presence. The site's outstanding scenic beauty is complemented by its great biological interest.",
+        "imageName": "halongbay",
+        "link": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay"
+    },
+    {
+        "name": "Ho Chi Minh Mausoleum",
+        "category": "Historical Landmark",
+        "city": "Ha Noi",
+        "state": "Ha Noi City",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Viet Nam",
+        "coordinates": {
+            "longitude": 20.9,
+            "latitude": 107.2
+        },
+        "description": "The Ho Chi Minh Mausoleum is the final resting place of Vietminh leader Ho Chi Minh in Hanoi, Vietnam. It is a large building located in the center of Ba Dinh Square, where Minh, Chairman of the Communist Party of Vietnam from 1951 until his death in 1969, read the Declaration of Independence on 2 September 1945, establishing the Democratic Republic of Vietnam. It is also known as Ba Đình Mausoleum and is open to the public.",
+        "imageName": "hcmm",
+        "link": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_Mausoleum"
+    },
+]
